@@ -1,0 +1,48 @@
+Time;DeviceId;PosX;PosY;Direction;Speed;SourceAp;DistanceToSourceAp;MigrationTime;ShouldMigrate;NextServerCloudlet;NextAp;Reason;LocalCloudlet;DistanceToLocalCloudlet;ClosestCloudlet;DistanceToClosestCloudlet;IsMigPoint;IsMigZone
+41000.0;5;8881;3418;3;0;AccessPoint87;741.5557969566416;0.0;false;None;None;Device is stationary;ServerCloudlet87;741.5557969566416;ServerCloudlet86;878.2647664571316;false;false
+42000.0;5;8882;3418;3;2;AccessPoint87;740.9399435851734;101909.77137851401;false;None;None;Outside migration zone or point;ServerCloudlet87;740.9399435851734;ServerCloudlet86;877.7448376379094;false;true
+43000.0;5;8885;3416;2;4;AccessPoint87;740.6787427758408;101909.7711173132;false;None;None;Outside migration zone or point;ServerCloudlet87;740.6787427758408;ServerCloudlet86;874.4787018561401;true;false
+44000.0;5;8890;3414;2;5;AccessPoint87;739.2212118168688;101909.76965978224;false;None;None;Outside migration zone or point;ServerCloudlet87;739.2212118168688;ServerCloudlet86;870.1838886120565;true;false
+45000.0;5;8896;3412;2;7;AccessPoint87;737.2001085187115;101909.76763867894;false;None;None;Outside migration zone or point;ServerCloudlet87;737.2001085187115;ServerCloudlet86;865.3900854527974;true;false
+46000.0;5;8904;3408;2;9;AccessPoint87;735.657529017409;101909.76609609944;false;None;None;Outside migration zone or point;ServerCloudlet87;735.657529017409;ServerCloudlet86;857.878779315586;true;false
+47000.0;5;8914;3403;2;10;AccessPoint87;733.8780552653145;101909.76431662569;false;None;None;Outside migration zone or point;ServerCloudlet87;733.8780552653145;ServerCloudlet86;848.5287266793034;true;false
+48000.0;5;8923;3399;2;10;AccessPoint87;732.0068305692236;101909.762445401;false;None;None;Outside migration zone or point;ServerCloudlet87;732.0068305692236;ServerCloudlet86;840.5866998709889;true;false
+49000.0;5;8933;3394;2;10;AccessPoint87;730.5402110767072;101909.7609787815;false;None;None;Outside migration zone or point;ServerCloudlet87;730.5402110767072;ServerCloudlet86;831.3248462544591;true;false
+50000.0;5;8942;3390;2;10;AccessPoint87;728.9444423273972;101909.75938301274;false;None;None;Outside migration zone or point;ServerCloudlet87;728.9444423273972;ServerCloudlet86;823.4682750416072;true;false
+51000.0;5;8952;3385;2;10;AccessPoint87;727.7946138849888;101909.7582331843;false;None;None;Outside migration zone or point;ServerCloudlet87;727.7946138849888;ServerCloudlet86;814.3003131523407;true;false
+52000.0;5;8961;3380;2;10;AccessPoint87;727.332798655471;101909.75777136908;false;None;None;Outside migration zone or point;ServerCloudlet87;727.332798655471;ServerCloudlet86;805.6506687144249;true;false
+53000.0;5;8971;3375;2;10;AccessPoint87;726.5108395612552;101909.75694940999;false;None;None;Outside migration zone or point;ServerCloudlet87;726.5108395612552;ServerCloudlet86;796.5789351972596;true;false
+54000.0;5;8980;3370;2;10;AccessPoint87;726.3525314886705;101909.75679110191;false;None;None;Outside migration zone or point;ServerCloudlet87;726.3525314886705;ServerCloudlet86;788.015228279251;true;false
+55000.0;5;8989;3365;2;10;AccessPoint87;726.3401407054412;101909.75677871113;false;None;None;Outside migration zone or point;ServerCloudlet87;726.3401407054412;ServerCloudlet86;779.493425244883;true;false
+56000.0;5;8999;3360;2;10;AccessPoint87;726.006198320648;101909.75644476875;false;None;None;Outside migration zone or point;ServerCloudlet87;726.006198320648;ServerCloudlet86;770.5744610354018;true;false
+57000.0;5;9008;3355;2;9;AccessPoint87;726.2981481457873;101909.75673671857;false;None;None;Outside migration zone or point;ServerCloudlet87;726.2981481457873;ServerCloudlet86;762.147623495606;true;false
+58000.0;5;9015;3351;2;6;AccessPoint87;726.7255327838702;101909.75716410321;false;None;None;Outside migration zone or point;ServerCloudlet87;726.7255327838702;ServerCloudlet86;755.5249830415934;true;false
+59000.0;5;9020;3349;2;4;AccessPoint87;726.3146700982984;101909.75675324052;false;None;None;Outside migration zone or point;ServerCloudlet87;726.3146700982984;ServerCloudlet86;751.5883181636075;true;false
+60000.0;5;9022;3347;2;1;AccessPoint87;727.2420504893814;101909.75768062091;false;None;None;Outside migration zone or point;ServerCloudlet87;727.2420504893814;ServerCloudlet86;748.9305708809062;false;false
+61000.0;5;9023;3347;2;0;AccessPoint87;726.8080902136409;101909.75768062091;false;None;None;Device is stationary;ServerCloudlet87;726.8080902136409;ServerCloudlet86;748.5091849803848;false;false
+62000.0;5;9023;3347;2;0;AccessPoint87;726.8080902136409;101909.75768062091;false;None;None;Device is stationary;ServerCloudlet87;726.8080902136409;ServerCloudlet86;748.5091849803848;false;false
+63000.0;5;9023;3347;2;0;AccessPoint87;726.8080902136409;101909.75768062091;false;None;None;Device is stationary;ServerCloudlet87;726.8080902136409;ServerCloudlet86;748.5091849803848;false;false
+64000.0;5;9023;3347;2;0;AccessPoint87;726.8080902136409;101909.75768062091;false;None;None;Device is stationary;ServerCloudlet87;726.8080902136409;ServerCloudlet86;748.5091849803848;false;false
+65000.0;5;9023;3347;2;0;AccessPoint87;726.8080902136409;101909.75768062091;false;None;None;Device is stationary;ServerCloudlet87;726.8080902136409;ServerCloudlet86;748.5091849803848;false;false
+66000.0;5;9023;3347;2;0;AccessPoint87;726.8080902136409;101909.75768062091;false;None;None;Device is stationary;ServerCloudlet87;726.8080902136409;ServerCloudlet86;748.5091849803848;false;false
+67000.0;5;9023;3347;2;0;AccessPoint87;726.8080902136409;101909.75768062091;false;None;None;Device is stationary;ServerCloudlet87;726.8080902136409;ServerCloudlet86;748.5091849803848;false;false
+68000.0;5;9023;3347;2;0;AccessPoint87;726.8080902136409;101909.75768062091;false;None;None;Device is stationary;ServerCloudlet87;726.8080902136409;ServerCloudlet86;748.5091849803848;false;false
+69000.0;5;9023;3347;2;0;AccessPoint87;726.8080902136409;101909.75768062091;false;None;None;Device is stationary;ServerCloudlet87;726.8080902136409;ServerCloudlet86;748.5091849803848;false;false
+70000.0;5;9023;3347;2;0;AccessPoint87;726.8080902136409;101909.75768062091;false;None;None;Device is stationary;ServerCloudlet87;726.8080902136409;ServerCloudlet86;748.5091849803848;false;false
+71000.0;5;9023;3347;2;0;AccessPoint87;726.8080902136409;101909.75768062091;false;None;None;Device is stationary;ServerCloudlet87;726.8080902136409;ServerCloudlet86;748.5091849803848;false;false
+72000.0;5;9023;3347;2;0;AccessPoint87;726.8080902136409;101909.75768062091;false;None;None;Device is stationary;ServerCloudlet87;726.8080902136409;ServerCloudlet86;748.5091849803848;false;false
+73000.0;5;9023;3347;2;0;AccessPoint87;726.8080902136409;101909.75768062091;false;None;None;Device is stationary;ServerCloudlet87;726.8080902136409;ServerCloudlet86;748.5091849803848;false;false
+74000.0;5;9023;3347;2;0;AccessPoint87;726.8080902136409;101909.75768062091;false;None;None;Device is stationary;ServerCloudlet87;726.8080902136409;ServerCloudlet86;748.5091849803848;false;false
+75000.0;5;9023;3347;2;0;AccessPoint87;726.8080902136409;101909.75768062091;false;None;None;Device is stationary;ServerCloudlet87;726.8080902136409;ServerCloudlet86;748.5091849803848;false;false
+76000.0;5;9023;3347;2;0;AccessPoint87;726.8080902136409;101909.75768062091;false;None;None;Device is stationary;ServerCloudlet87;726.8080902136409;ServerCloudlet86;748.5091849803848;false;false
+77000.0;5;9023;3347;2;0;AccessPoint87;726.8080902136409;101909.75768062091;false;None;None;Device is stationary;ServerCloudlet87;726.8080902136409;ServerCloudlet86;748.5091849803848;false;false
+78000.0;5;9023;3347;2;0;AccessPoint87;726.8080902136409;101909.75768062091;false;None;None;Device is stationary;ServerCloudlet87;726.8080902136409;ServerCloudlet86;748.5091849803848;false;false
+79000.0;5;9023;3347;2;0;AccessPoint87;726.8080902136409;101909.75768062091;false;None;None;Device is stationary;ServerCloudlet87;726.8080902136409;ServerCloudlet86;748.5091849803848;false;false
+80000.0;5;9023;3347;2;0;AccessPoint87;726.8080902136409;101909.75768062091;false;None;None;Device is stationary;ServerCloudlet87;726.8080902136409;ServerCloudlet86;748.5091849803848;false;false
+81000.0;5;9024;3346;2;2;AccessPoint87;727.2771136231361;101909.75771568404;false;None;None;Outside migration zone or point;ServerCloudlet87;727.2771136231361;ServerCloudlet86;747.1813702174326;false;false
+82000.0;5;9027;3345;2;4;AccessPoint87;726.8906382668579;101909.75732920869;false;None;None;Outside migration zone or point;ServerCloudlet87;726.8906382668579;ServerCloudlet86;745.0167783345554;true;false
+83000.0;5;9032;3342;2;6;AccessPoint87;727.4860823410988;101909.75792465276;false;None;None;Outside migration zone or point;ServerCloudlet87;727.4860823410988;ServerCloudlet86;740.2107807915256;true;false
+84000.0;5;9038;3338;2;7;AccessPoint87;728.6261043909969;101909.75906467481;false;None;None;Outside migration zone or point;ServerCloudlet87;728.6261043909969;ServerCloudlet86;734.0980860893181;true;false
+85000.0;5;9046;3334;2;9;AccessPoint87;729.0322352269479;101909.75947080564;false;None;None;Outside migration zone or point;ServerCloudlet87;729.0322352269479;ServerCloudlet86;727.2001100109928;true;false
+86000.0;5;9055;3329;2;10;AccessPoint87;730.080817444206;101909.76051938787;false;None;None;Outside migration zone or point;ServerCloudlet87;730.080817444206;ServerCloudlet86;719.0340742969;true;false
+87000.0;5;9064;3324;2;10;AccessPoint87;731.2728628904536;101909.76171143331;true;ServerCloudlet86;AccessPoint86;Migration approved;ServerCloudlet87;731.2728628904536;ServerCloudlet86;710.9233432656436;true;true
